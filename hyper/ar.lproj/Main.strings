@@ -1,0 +1,177 @@
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "019-ma-F3G"; */
+"019-ma-F3G.title" = "الحساب";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "1n1-1i-adZ"; */
+"1n1-1i-adZ.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Live Tracking"; ObjectID = "4y5-gJ-ceB"; */
+"4y5-gJ-ceB.text" = "التتبع الحى";
+
+/* Class = "UILabel"; text = "Hyper"; ObjectID = "5iH-9f-DQw"; */
+"5iH-9f-DQw.text" = "هايبر";
+
+/* Class = "UILabel"; text = "Happy Meals"; ObjectID = "7Tg-xc-B3s"; */
+"7Tg-xc-B3s.text" = "وجبات سعيدة";
+
+/* Class = "UILabel"; text = "Over 1.000 restaurants."; ObjectID = "9HW-DO-Dda"; */
+"9HW-DO-Dda.text" = "لاكثر من ١٠٠٠ مطعم";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "AH6-kM-tD7"; */
+"AH6-kM-tD7.title" = "هايبر";
+
+/* Class = "UILabel"; text = "please enter your email to recive a link to create a new password via email."; ObjectID = "AZY-Fc-AkG"; */
+"AZY-Fc-AkG.text" = "من فضلك ادخل الايميل لاستقبال رابط لتسجيل كلمة سر جديدة.";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "Asc-wA-Gdq"; */
+"Asc-wA-Gdq.placeholder" = "التليفون";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "Bb3-Hp-nQJ"; */
+"Bb3-Hp-nQJ.normalTitle" = "انشاء حساب";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "Bov-nr-TaH"; */
+"Bov-nr-TaH.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Already an account ?"; ObjectID = "CRN-aU-uhX"; */
+"CRN-aU-uhX.text" = "لدى حساب بالفعل";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "DS0-A8-D8B"; */
+"DS0-A8-D8B.placeholder" = "اسم المستخدم";
+
+/* Class = "UIButton"; normalTitle = "contannue with facebook"; ObjectID = "Ged-3v-GmB"; */
+"Ged-3v-GmB.normalTitle" = "الاستمرار بالفيس بوك";
+
+/* Class = "UITabBarItem"; title = "Resturant"; ObjectID = "Ghz-es-HcV"; */
+"Ghz-es-HcV.title" = "مطعم";
+
+/* Class = "UIButton"; normalTitle = "Forget the Password"; ObjectID = "H0k-VO-qBm"; */
+"H0k-VO-qBm.normalTitle" = "نسيت كلمة السر";
+
+/* Class = "UILabel"; text = "Real time traking of your fooods"; ObjectID = "HPD-Lr-tnR"; */
+"HPD-Lr-tnR.text" = "تتبع الوقت الفعلى لطعامك";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "JfC-Mk-Qxj"; */
+"JfC-Mk-Qxj.normalTitle" = "انشاء";
+
+/* Class = "UILabel"; text = "Mostafa Ayman"; ObjectID = "Ktf-fO-Pwu"; */
+"Ktf-fO-Pwu.text" = "Mostafa Ayman";
+
+/* Class = "UIButton"; normalTitle = "send"; ObjectID = "MKr-Fy-Wie"; */
+"MKr-Fy-Wie.normalTitle" = "ارسال";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "Mit-D9-c9d"; */
+"Mit-D9-c9d.normalTitle" = "انشاء حساب";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "MlP-Ge-AQX"; */
+"MlP-Ge-AQX.title" = "هايبر";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Q29-ZH-cu3"; */
+"Q29-ZH-cu3.placeholder" = "الايميل";
+
+/* Class = "UITabBarItem"; title = "Offers"; ObjectID = "QFD-qW-Y8b"; */
+"QFD-qW-Y8b.title" = "عروض";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "S10-TW-lIW"; */
+"S10-TW-lIW.normalTitle" = "انشاء حساب";
+
+/* Class = "UILabel"; text = "Fast delivery for your home,office"; ObjectID = "UBb-bJ-6FO"; */
+"UBb-bJ-6FO.text" = "التوصيل السريع لمنزلك و للمكتب";
+
+/* Class = "UIButton"; normalTitle = "contannue with facebook"; ObjectID = "Uoi-jW-P34"; */
+"Uoi-jW-P34.normalTitle" = "الاستمرار بفيس بوك";
+
+/* Class = "UILabel"; text = "Over 1.000 restaurants."; ObjectID = "WOn-k0-jbK"; */
+"WOn-k0-jbK.text" = "اكثر من ١٠٠٠ مطعم";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "WmF-cN-jtF"; */
+"WmF-cN-jtF.placeholder" = "اسم المستخدم";
+
+/* Class = "UIButton"; normalTitle = "Get started"; ObjectID = "Yh7-jD-WUc"; */
+"Yh7-jD-WUc.normalTitle" = "ابدا";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "Zmp-2w-oS6"; */
+"Zmp-2w-oS6.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "SignUp "; ObjectID = "cA4-gG-7qH"; */
+"cA4-gG-7qH.normalTitle" = "انشاء حساب ";
+
+/* Class = "UILabel"; text = "mostafaayman010030"; ObjectID = "e1P-Xe-i6o"; */
+"e1P-Xe-i6o.text" = "mostafaayman010030";
+
+/* Class = "UILabel"; text = "profile"; ObjectID = "eHg-DP-l5d"; */
+"eHg-DP-l5d.text" = "الصفحة الشخصية";
+
+/* Class = "UILabel"; text = "Create your  account"; ObjectID = "fjW-fS-YLL"; */
+"fjW-fS-YLL.text" = "انشاء حسابك الخاص";
+
+/* Class = "UILabel"; text = "Log in to your account"; ObjectID = "fju-8M-UL5"; */
+"fju-8M-UL5.text" = "تسجيل الدخول الى حسابك الشخصى";
+
+/* Class = "UILabel"; text = "By cliking Sign up you agree to the our terms and Conditions"; ObjectID = "g0s-Kc-5nx"; */
+"g0s-Kc-5nx.text" = "بمجرد ضغطك على انشاء الحساب انت توافق على نهج و الشروط";
+
+/* Class = "UILabel"; text = "Happy Meals"; ObjectID = "gCI-I2-3fX"; */
+"gCI-I2-3fX.text" = "وجبات سريعة";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "gQh-41-ylW"; */
+"gQh-41-ylW.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "gbj-Ou-3qI"; */
+"gbj-Ou-3qI.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "inZ-fD-fun"; */
+"inZ-fD-fun.placeholder" = "الايميل";
+
+/* Class = "UILabel"; text = "Don't have an account ?"; ObjectID = "kaE-yE-KLj"; */
+"kaE-yE-KLj.text" = "لا يوجد لديك حساب مسبق";
+
+/* Class = "UILabel"; text = "Discovery the bewst food from ."; ObjectID = "m3B-0n-flZ"; */
+"m3B-0n-flZ.text" = "اكتشف افضل الاطعمه من خلال";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "mlE-dK-3gk"; */
+"mlE-dK-3gk.placeholder" = "كلمة السر";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "nGS-aM-h3w"; */
+"nGS-aM-h3w.title" = "هايبر";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "pbx-rN-YTT"; */
+"pbx-rN-YTT.text" = "نسيت كلمة السر";
+
+/* Class = "UILabel"; text = "and  whereever you want"; ObjectID = "pdH-ve-nzm"; */
+"pdH-ve-nzm.text" = "و فى اى مكان تريد";
+
+/* Class = "UILabel"; text = "Discovery the bewst food from ."; ObjectID = "qAB-f0-aEH"; */
+"qAB-f0-aEH.text" = "اكتشف افضل الاطعمه من خلال .";
+
+/* Class = "UILabel"; text = "Over 1.000 restaurants."; ObjectID = "qZt-9X-DKN"; */
+"qZt-9X-DKN.text" = "لاكثر من ١٠٠٠ مطعم";
+
+/* Class = "UILabel"; text = "Discovery the bewst food from ."; ObjectID = "rtj-rW-Sa9"; */
+"rtj-rW-Sa9.text" = "اكتشف افضل الاطعمه من خلال";
+
+/* Class = "UILabel"; text = "Fast Delivery"; ObjectID = "saz-ey-eiz"; */
+"saz-ey-eiz.text" = "التوصيل السريع";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "vS8-2V-EZv"; */
+"vS8-2V-EZv.title" = "هايبر";
+
+/* Class = "UIButton"; normalTitle = "contannue with facebook"; ObjectID = "vqC-ZZ-CWv"; */
+"vqC-ZZ-CWv.normalTitle" = "الاستمرار بفيسبوك";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "vtL-nI-1Fs"; */
+"vtL-nI-1Fs.title" = "هايبر";
+
+/* Class = "UILabel"; text = "on the app after order"; ObjectID = "ws6-xW-boU"; */
+"ws6-xW-boU.text" = "من الاب بعد الطلب";
+
+/* Class = "UILabel"; text = "Finde foods you love"; ObjectID = "x1c-nC-Sq4"; */
+"x1c-nC-Sq4.text" = "ستجد الطعام الزى تريده";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "xqH-Lk-VmX"; */
+"xqH-Lk-VmX.placeholder" = "كلمة السر";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yJ3-Ek-D1h"; */
+"yJ3-Ek-D1h.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Get started"; ObjectID = "zh6-li-nYV"; */
+"zh6-li-nYV.normalTitle" = "ابدا";

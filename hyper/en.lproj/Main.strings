@@ -1,0 +1,177 @@
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "019-ma-F3G"; */
+"019-ma-F3G.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "1n1-1i-adZ"; */
+"1n1-1i-adZ.normalTitle" = "log in";
+
+/* Class = "UILabel"; text = "Live Tracking"; ObjectID = "4y5-gJ-ceB"; */
+"4y5-gJ-ceB.text" = "Live Tracking";
+
+/* Class = "UILabel"; text = "Hyper"; ObjectID = "5iH-9f-DQw"; */
+"5iH-9f-DQw.text" = "Hyper";
+
+/* Class = "UILabel"; text = "Happy Meals"; ObjectID = "7Tg-xc-B3s"; */
+"7Tg-xc-B3s.text" = "Happy Meals";
+
+/* Class = "UILabel"; text = "Over 1.000 restaurants."; ObjectID = "9HW-DO-Dda"; */
+"9HW-DO-Dda.text" = "Over 1.000 restaurants.";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "AH6-kM-tD7"; */
+"AH6-kM-tD7.title" = "Hyper";
+
+/* Class = "UILabel"; text = "please enter your email to recive a link to create a new password via email."; ObjectID = "AZY-Fc-AkG"; */
+"AZY-Fc-AkG.text" = "please enter your email to recive a link to create a new password via email.";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "Asc-wA-Gdq"; */
+"Asc-wA-Gdq.placeholder" = "Phone";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "Bb3-Hp-nQJ"; */
+"Bb3-Hp-nQJ.normalTitle" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "Bov-nr-TaH"; */
+"Bov-nr-TaH.normalTitle" = "log in";
+
+/* Class = "UILabel"; text = "Already an account ?"; ObjectID = "CRN-aU-uhX"; */
+"CRN-aU-uhX.text" = "Already an account ?";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "DS0-A8-D8B"; */
+"DS0-A8-D8B.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "contannue with facebook"; ObjectID = "Ged-3v-GmB"; */
+"Ged-3v-GmB.normalTitle" = "contannue with facebook";
+
+/* Class = "UITabBarItem"; title = "Resturant"; ObjectID = "Ghz-es-HcV"; */
+"Ghz-es-HcV.title" = "Resturant";
+
+/* Class = "UIButton"; normalTitle = "Forget the Password"; ObjectID = "H0k-VO-qBm"; */
+"H0k-VO-qBm.normalTitle" = "Forget the Password";
+
+/* Class = "UILabel"; text = "Real time traking of your fooods"; ObjectID = "HPD-Lr-tnR"; */
+"HPD-Lr-tnR.text" = "Real time traking of your fooods";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "JfC-Mk-Qxj"; */
+"JfC-Mk-Qxj.normalTitle" = "Create";
+
+/* Class = "UILabel"; text = "Mostafa Ayman"; ObjectID = "Ktf-fO-Pwu"; */
+"Ktf-fO-Pwu.text" = "Mostafa Ayman";
+
+/* Class = "UIButton"; normalTitle = "send"; ObjectID = "MKr-Fy-Wie"; */
+"MKr-Fy-Wie.normalTitle" = "send";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "Mit-D9-c9d"; */
+"Mit-D9-c9d.normalTitle" = "Create Account";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "MlP-Ge-AQX"; */
+"MlP-Ge-AQX.title" = "Hyper";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Q29-ZH-cu3"; */
+"Q29-ZH-cu3.placeholder" = "Email";
+
+/* Class = "UITabBarItem"; title = "Offers"; ObjectID = "QFD-qW-Y8b"; */
+"QFD-qW-Y8b.title" = "Offers";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "S10-TW-lIW"; */
+"S10-TW-lIW.normalTitle" = "Create Account";
+
+/* Class = "UILabel"; text = "Fast delivery for your home,office"; ObjectID = "UBb-bJ-6FO"; */
+"UBb-bJ-6FO.text" = "Fast delivery for your home,office";
+
+/* Class = "UIButton"; normalTitle = "contannue with facebook"; ObjectID = "Uoi-jW-P34"; */
+"Uoi-jW-P34.normalTitle" = "contannue with facebook";
+
+/* Class = "UILabel"; text = "Over 1.000 restaurants."; ObjectID = "WOn-k0-jbK"; */
+"WOn-k0-jbK.text" = "Over 1.000 restaurants.";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "WmF-cN-jtF"; */
+"WmF-cN-jtF.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Get started"; ObjectID = "Yh7-jD-WUc"; */
+"Yh7-jD-WUc.normalTitle" = "Get started";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "Zmp-2w-oS6"; */
+"Zmp-2w-oS6.normalTitle" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "SignUp "; ObjectID = "cA4-gG-7qH"; */
+"cA4-gG-7qH.normalTitle" = "SignUp ";
+
+/* Class = "UILabel"; text = "mostafaayman010030"; ObjectID = "e1P-Xe-i6o"; */
+"e1P-Xe-i6o.text" = "mostafaayman010030";
+
+/* Class = "UILabel"; text = "profile"; ObjectID = "eHg-DP-l5d"; */
+"eHg-DP-l5d.text" = "profile";
+
+/* Class = "UILabel"; text = "Create your  account"; ObjectID = "fjW-fS-YLL"; */
+"fjW-fS-YLL.text" = "Create your  account";
+
+/* Class = "UILabel"; text = "Log in to your account"; ObjectID = "fju-8M-UL5"; */
+"fju-8M-UL5.text" = "Log in to your account";
+
+/* Class = "UILabel"; text = "By cliking Sign up you agree to the our terms and Conditions"; ObjectID = "g0s-Kc-5nx"; */
+"g0s-Kc-5nx.text" = "By cliking Sign up you agree to the our terms and Conditions";
+
+/* Class = "UILabel"; text = "Happy Meals"; ObjectID = "gCI-I2-3fX"; */
+"gCI-I2-3fX.text" = "Happy Meals";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "gQh-41-ylW"; */
+"gQh-41-ylW.normalTitle" = "log in";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "gbj-Ou-3qI"; */
+"gbj-Ou-3qI.normalTitle" = "log in";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "inZ-fD-fun"; */
+"inZ-fD-fun.placeholder" = "email";
+
+/* Class = "UILabel"; text = "Don't have an account ?"; ObjectID = "kaE-yE-KLj"; */
+"kaE-yE-KLj.text" = "Don't have an account ?";
+
+/* Class = "UILabel"; text = "Discovery the bewst food from ."; ObjectID = "m3B-0n-flZ"; */
+"m3B-0n-flZ.text" = "Discovery the bewst food from .";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "mlE-dK-3gk"; */
+"mlE-dK-3gk.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "nGS-aM-h3w"; */
+"nGS-aM-h3w.title" = "Hyper";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "pbx-rN-YTT"; */
+"pbx-rN-YTT.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "and  whereever you want"; ObjectID = "pdH-ve-nzm"; */
+"pdH-ve-nzm.text" = "and  whereever you want";
+
+/* Class = "UILabel"; text = "Discovery the bewst food from ."; ObjectID = "qAB-f0-aEH"; */
+"qAB-f0-aEH.text" = "Discovery the bewst food from .";
+
+/* Class = "UILabel"; text = "Over 1.000 restaurants."; ObjectID = "qZt-9X-DKN"; */
+"qZt-9X-DKN.text" = "Over 1.000 restaurants.";
+
+/* Class = "UILabel"; text = "Discovery the bewst food from ."; ObjectID = "rtj-rW-Sa9"; */
+"rtj-rW-Sa9.text" = "Discovery the bewst food from .";
+
+/* Class = "UILabel"; text = "Fast Delivery"; ObjectID = "saz-ey-eiz"; */
+"saz-ey-eiz.text" = "Fast Delivery";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "vS8-2V-EZv"; */
+"vS8-2V-EZv.title" = "Hyper";
+
+/* Class = "UIButton"; normalTitle = "contannue with facebook"; ObjectID = "vqC-ZZ-CWv"; */
+"vqC-ZZ-CWv.normalTitle" = "contannue with facebook";
+
+/* Class = "UINavigationItem"; title = "Hyper"; ObjectID = "vtL-nI-1Fs"; */
+"vtL-nI-1Fs.title" = "Hyper";
+
+/* Class = "UILabel"; text = "on the app after order"; ObjectID = "ws6-xW-boU"; */
+"ws6-xW-boU.text" = "on the app after order";
+
+/* Class = "UILabel"; text = "Finde foods you love"; ObjectID = "x1c-nC-Sq4"; */
+"x1c-nC-Sq4.text" = "Finde foods you love";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "xqH-Lk-VmX"; */
+"xqH-Lk-VmX.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yJ3-Ek-D1h"; */
+"yJ3-Ek-D1h.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Get started"; ObjectID = "zh6-li-nYV"; */
+"zh6-li-nYV.normalTitle" = "Get started";
